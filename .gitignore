@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/RockstarGameLauncherUI/.vs/RockstarGameLauncherUI/FileContentIndex
+/RockstarGameLauncherUI/.vs/RockstarGameLauncherUI/FileContentIndex
+/RockstarGameLauncherUI/.vs/RockstarGameLauncherUI/v17/.suo
+/.vs/XAML-Projects/v17/.suo
+/.vs/VSWorkspaceState.json
